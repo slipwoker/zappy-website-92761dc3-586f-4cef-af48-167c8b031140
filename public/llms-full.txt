@@ -2,13 +2,13 @@
 
 An informational and advocacy website dedicated to the city of Lod (Lydd), Israel. The site aims to present information, stories, and content about the city — its history, culture, community, and current affairs — in order to raise awareness and promote a positive or educational narrative about Lod.
 
-Source: https://-92761dc3.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את הסיפור האמיתי של לוד — הלב של לוד
 
-URL: https://-92761dc3.zappy5.app
+URL: https://example.com
 Description: מידע מקיף על לוד לתושבים – היסטוריה, תרבות, קהילה ועשייה עירונית. האתר שמחבר אתכם לעיר מזווית אחרת. היכנסו וגלו את הלב הפועם של לוד!
 
 גלו את הסיפור האמיתי של לוד — הלב של לוד
@@ -625,7 +625,7 @@ Description: מידע מקיף על לוד לתושבים – היסטוריה, 
 
 ## מדיניות פרטיות
 
-URL: https://-92761dc3.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -889,7 +889,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-92761dc3.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1162,7 +1162,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-92761dc3.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1454,7 +1454,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-92761dc3.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: הלב של לוד - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
