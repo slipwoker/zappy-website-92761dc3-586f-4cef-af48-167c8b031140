@@ -1,0 +1,70 @@
+# הלב של לוד — Generative Engine Optimization Map
+
+> An informational and advocacy website dedicated to the city of Lod (Lydd), Israel. The site aims to present information, stories, and content about the city — its history, culture, community, and current affairs — in order to raise awareness and promote a positive or educational narrative about Lod.
+
+---
+
+## Pages
+
+### בית
+https://-92761dc3.zappy5.app
+מידע מקיף על לוד לתושבים – היסטוריה, תרבות, קהילה ועשייה עירונית. האתר שמחבר אתכם לעיר מזווית אחרת. היכנסו וגלו את הלב הפועם של לוד!
+
+### תודה שפניתם אלינו
+https://-92761dc3.zappy5.app/thank-you
+הלב של לוד - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-92761dc3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-92761dc3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-92761dc3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-92761dc3.zappy5.app
+- Endpoint: https://-92761dc3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הלב של לוד
+An informational and advocacy website dedicated to the city of Lod (Lydd), Israel. The site aims to present information, stories, and content about the city — its history, culture, community, and current affairs — in order to raise awareness and promote a positive or educational narrative about Lod.
+
+## Target Audience
+- תושבי לוד
+- רוכשי דירות פוטנציאליים
+- בעלי עסקים
+
+## Industry
+Municipal Information / City Advocacy
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-92761dc3.zappy5.app/sitemap.xml
+- Robots: https://-92761dc3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-92761dc3.zappy5.app/llms-full.txt
